@@ -6,3 +6,5 @@ Built using [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSock
 <img src="./public/img/screen-shot.png" alt="Screenshot of chat app." style="width: 150px;">
 
 [View Live](https://hagen-chat-app.herokuapp.com/)
+
+Special thanks to [Andrew Mead](https://www.udemy.com/user/andrewmead/)
